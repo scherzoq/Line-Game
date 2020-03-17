@@ -28,8 +28,8 @@ Specifically, this program uses SuperWebSocketNETServer, a .NET implemention of 
 
 ## Attribution
 * **Game designer**: Sid Sackson
-* **NuGET packages used**: SuperWebSocketNETServer (Kerry Jiang), a .NET implemention of the WebSocket API. The program uses the following from this package:
-  - SuperWebSocketNETServer.0.8.0 is used to manage communications between the client and server)
+* **NuGET packages used**: SuperWebSocketNETServer (Kerry Jiang), a .NET implemention of the WebSocket API. This program uses the following from the package:
+  - SuperWebSocketNETServer.0.8.0 is used to manage communications between the client and server
   - Newtonsoft.Json.6.0.2 is used to deserialize and serialize JSON messages from and to the client
 * **External code used**: I used code from the following two web pages for some of the helper methods in the IntersectionHelper.cs file. For more detailed attribution, see my comments in that file.
   - https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
