@@ -32,9 +32,7 @@ Specifically, this program uses SuperWebSocketNETServer, a .NET implemention of 
   - SuperWebSocketNETServer.0.8.0 is used to manage communications between the client and server)
   - Newtonsoft.Json.6.0.2 is used to deserialize and serialize JSON messages from and to the client
 * **External code used**: I used code from the following two web pages for some of the helper methods in the IntersectionHelper.cs file. For more detailed attribution, see my comments in that file.
-  - <a href="https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/" target="_blank">https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/</a>
-  - <a href="https://rosettacode.org/wiki/Find_the_intersection_of_two_lines" target="_blank">https://rosettacode.org/wiki/Find_the_intersection_of_two_lines</a>
-
-
+  - https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/
+  - https://rosettacode.org/wiki/Find_the_intersection_of_two_lines
 
 *Jump to: [Introduction](#introduction), [Running the Application](#running-the-application), [Game Rules](#game-rules), [Attribution](#attribution), [Page Top](#line-game)*
