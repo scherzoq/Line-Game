@@ -1,0 +1,32 @@
+C:\Users\John\Desktop\line game\LineGame\LineGame\obj\Debug\LineGame.csprojAssemblyReference.cache
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\LineGame.exe.config
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\LineGame.exe
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\LineGame.pdb
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\log4net.dll
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\SuperSocket.Common.dll
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\SuperSocket.Facility.dll
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\SuperWebSocket.dll
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\log4net.xml
+C:\Users\John\Desktop\line game\LineGame\LineGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\Desktop\line game\LineGame\LineGame\obj\Debug\LineGame.csproj.CopyComplete
+C:\Users\John\Desktop\line game\LineGame\LineGame\obj\Debug\LineGame.exe
+C:\Users\John\Desktop\line game\LineGame\LineGame\obj\Debug\LineGame.pdb
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\LineGame.exe.config
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\LineGame.exe
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\LineGame.pdb
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\log4net.dll
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\SuperSocket.Common.dll
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\SuperSocket.Facility.dll
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\SuperWebSocket.dll
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\log4net.xml
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\obj\Debug\LineGame.csprojAssemblyReference.cache
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\obj\Debug\LineGame.csproj.CopyComplete
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\obj\Debug\LineGame.exe
+C:\Users\John\Desktop\line game working folder\LineGame\LineGame\obj\Debug\LineGame.pdb
