@@ -6,7 +6,7 @@
 * [Attribution](#attribution)
 
 ## Introduction
-For this coding project, I used C# to create a line game (see [Game Rules](#game-rules), below). I was provided with a web client (HTML/CSS, JavaScript) to render the game and manage user interactions (the client is dumb, and knows nothing about the game). I used C# and WebSocket API to implement the game logic, maintain the game state, and process requests from and send responses to the web client.
+For this project, I used C# to create a line game (see [Game Rules](#game-rules), below). This was a coding challenge where I was provided with a web client (HTML/CSS, JavaScript) to render the game and manage user interactions (the client is dumb, and knows nothing about the game). My role was to use C# and WebSocket API to implement the server-side game logic, maintain the game state, and process requests from and send responses to the web client.
 
 This program specificallly uses SuperWebSocketNETServer, a .NET implemention of the WebSocket API. For a full list of external packages/code used in the program, please see the [Attribution](#attribution) section below.
 
