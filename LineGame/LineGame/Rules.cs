@@ -18,6 +18,7 @@ namespace LineGame
             }
         }
 
+        // returns true so long as new line does not violate game's line intersection rules
         public static bool NoInvalidIntersect(Line tryLine, List<Line> existingLines)
         {
             // check each existing line segment for intersection with new line segment
@@ -73,6 +74,7 @@ namespace LineGame
             return true;        
         }
 
+        // returns true if no valid moves remain on the board
         public static bool BoardComplete(Board board, List<Line> existingLines, List<Point> validStartNodes)
         {
             foreach (Point startNode in validStartNodes)

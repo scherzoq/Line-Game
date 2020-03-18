@@ -22,9 +22,6 @@ namespace LineGame
             Response_Payload response = new Response_Payload();
             response.id = request.id;
             response.body = new Response_Payload.Body();
-            response.body.newLine = new Response_Payload.Body.NewLine();
-            response.body.newLine.start = new Response_Payload.Body.NewLine.Start();
-            response.body.newLine.end = new Response_Payload.Body.NewLine.End();
 
             // initialize request
             if (request.msg == "INITIALIZE")
@@ -47,7 +44,7 @@ namespace LineGame
                 if (gameOver == true)
                 {
                     response.msg = "INVALID_START_NODE";
-                    response.body.heading = "Congratulations!";
+                    response.body.heading = "Game Over";
                     response.body.message = currentPlayer(currentPlayerIsOne) + " Wins!";
                 }
                 // first move
@@ -77,6 +74,9 @@ namespace LineGame
                             validStartNodes.Add(endNode);
                             currentPlayerIsOne = !currentPlayerIsOne;
 
+                            response.body.newLine = new Response_Payload.Body.NewLine();
+                            response.body.newLine.start = new Response_Payload.Body.NewLine.Start();
+                            response.body.newLine.end = new Response_Payload.Body.NewLine.End();
                             response.msg = "VALID_END_NODE";
                             response.body.newLine.start.x = startNode.x;
                             response.body.newLine.start.y = startNode.y;
@@ -146,6 +146,10 @@ namespace LineGame
                             validStartNodes.Add(endNode);
                             currentPlayerIsOne = !currentPlayerIsOne;
 
+                            response.body.newLine = new Response_Payload.Body.NewLine();
+                            response.body.newLine.start = new Response_Payload.Body.NewLine.Start();
+                            response.body.newLine.end = new Response_Payload.Body.NewLine.End();
+
                             // check if board still has valid moves
                             bool boardComplete = Rules.BoardComplete(board, lines, validStartNodes);
                             // game continues if board still has valid moves
@@ -171,7 +175,7 @@ namespace LineGame
                                 response.body.newLine.start.y = startNode.y;
                                 response.body.newLine.end.x = endNode.x;
                                 response.body.newLine.end.y = endNode.y;
-                                response.body.heading = "Congratulations!";
+                                response.body.heading = "Game Over";
                                 response.body.message = currentPlayer(currentPlayerIsOne) + " Wins!";
                             }                                                       
                         }
