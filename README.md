@@ -11,9 +11,10 @@ For this project, I used C# to create a line game (see [Game Rules](#game-rules)
 This program specificallly uses SuperWebSocketNETServer, a .NET implemention of the WebSocket API. For a full list of external packages/code used in the program, please see the [Attribution](#attribution) section below.
 
 ## Running the Application
-1. Open LineGame.sln in Visual Studio, then run Program.cs.
-2. Once the program is running, open index.html (found in the Client folder). The game will start once index.html loads in the web browser.
-3. To start a new game at any time, reload the browser page.
+1. Go to the subfolder Line-Game\LineGame\LineGame\bin\Debug and then double-click on LineGame.exe
+2. The console should open and read "Server is running on Port 8081..."
+3. Open index.html (found in the Client folder). The game will start after index.html loads in the web browser.
+4. To start a new game at any time, reload the browser page.
 
 ## Game Rules
 * The game is played on a 4x4 grid of 16 nodes.
